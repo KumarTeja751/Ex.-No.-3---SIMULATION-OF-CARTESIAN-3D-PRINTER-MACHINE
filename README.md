@@ -1,5 +1,4 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -143,9 +142,6 @@ The spool is designed to keep the filament neatly wound and prevent tangling or 
 
 ##### Playing with Axes:
 ![image](https://github.com/23004742/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319318/48c02346-5e87-497c-856d-46439a777de8)
-
-### Name: Naramala Kumarteja
-### Register Number:23003525
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
